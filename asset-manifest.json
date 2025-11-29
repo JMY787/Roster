@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/roster/static/css/main.a9dc5060.css",
-    "main.js": "/roster/static/js/main.ccb9ff7c.js",
-    "static/media/SEGA.woff": "/roster/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "/roster/index.html",
-    "main.a9dc5060.css.map": "/roster/static/css/main.a9dc5060.css.map",
-    "main.ccb9ff7c.js.map": "/roster/static/js/main.ccb9ff7c.js.map"
+    "main.css": "/Roster/static/css/main.a14f9e58.css",
+    "main.js": "/Roster/static/js/main.ccb9ff7c.js",
+    "static/media/SEGA.woff": "/Roster/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Roster/index.html",
+    "main.a14f9e58.css.map": "/Roster/static/css/main.a14f9e58.css.map",
+    "main.ccb9ff7c.js.map": "/Roster/static/js/main.ccb9ff7c.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9dc5060.css",
+    "static/css/main.a14f9e58.css",
     "static/js/main.ccb9ff7c.js"
   ]
 }
